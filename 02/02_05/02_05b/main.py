@@ -4,3 +4,4 @@ seating_chart = [
     ["Katherine", "Lauren", "Mary", "Nathan", "Olive"],
     ["Chad", "April", "Matt", "Thomas", "Penny"]
 ]
+print(seating_chart[2][1])
